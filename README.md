@@ -1,4 +1,8 @@
-## Hi there 👋
+## 👋 Hi, I’m Stefano Uccelli!
+
+I’m a Junior Data Scientist at a consulting firm in Ecuador with a background in Economics. Passionate about harnessing the power of data to solve real-world problems, I’m particularly interested in AI for social good. Currently, I’m exploring projects that combine data science and finance, while also building my skills in software development and digital product creation.
+
+🔍 Let’s connect and create something meaningful!
 
 <!--
 **stefanoucc/stefanoucc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

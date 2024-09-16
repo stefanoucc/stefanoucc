@@ -1,7 +1,6 @@
 ## 👋 Hi, I’m Stefano Uccelli!
 
-I’m a Junior Data Scientist at a consulting firm in Ecuador with a background in Economics. Passionate about harnessing the power of data to solve real-world problems, I’m particularly interested in AI for social good. Currently, I’m exploring projects that combine data science and finance, while also building my skills in software development and digital product creation.
-
+Economist-turned-Data Scientist working in multiple projects including a car quotation website, AI assistants for small businesses, credit risk evaluators, different dashboards for my business and other things coming soon. 
 🔍 Let’s connect and create something meaningful!
 
 <!--

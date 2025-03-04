@@ -1,7 +1,6 @@
-## 👋 Hi, I’m Stefano Uccelli!
+I’m Stefano Uccelli!
 
-Economist-turned-Data Scientist working in multiple projects including a car quotation website, AI assistants for small businesses, credit risk evaluators, different dashboards for my business and other things coming soon. 
-🔍 Let’s connect and create something meaningful!
+Economist-turned-Product Engineer working on multiple projects including a smart ring, AI assistant, credit risk evaluators, OCRs, different dashboards for my business, websites on the side, and other things coming soon. 
 
 <!--
 **stefanoucc/stefanoucc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

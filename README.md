@@ -1,5 +1,3 @@
-I’m Stefano Uccelli!
-
 Economist-turned-Product Engineer working on multiple projects including a smart ring, AI assistants, credit risk evaluators, OCRs, different dashboards for my business, websites on the side, and other things coming soon. 
 
 <!--

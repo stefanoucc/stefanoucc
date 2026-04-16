@@ -1,4 +1,4 @@
-Economist-turned-Product Engineer working on multiple projects including a smart ring, AI assistants, credit risk evaluators, OCRs, different dashboards for my business, websites on the side, and other things coming soon. 
+Economist-turned-Product Engineer working on multiple projects including AI assistants, credit risk evaluators, OCRs, different dashboards for my business, websites on the side, and other things coming soon. 
 
 <!--
 **stefanoucc/stefanoucc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
